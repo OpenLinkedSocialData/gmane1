@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-org-operators-nznog">
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1217</gmane:nParticipants>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:10:07.530043</po:triplifiedIn>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14389</gmane:nMessages>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogTranslate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogTranslate.ttl</po:ttlFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.org.operators.nznog</rdfs:comment>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10959433</gmane:nCharacters>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogMeta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogMeta.ttl</po:discoveryTTLFile>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9492</gmane:nResponses>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:10:01.499171</po:createdAt>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.org.operators.nznog</gmane:gmaneID>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-org-operators-nznog</po:availableAt>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-org-operators-nznog</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-comp-web-egroupware-user">
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-comp-web-egroupware-user</po:availableAt>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6584</gmane:nParticipants>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20118</gmane:nResponses>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.comp.web.egroupware.user</rdfs:comment>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:05:56.412089</po:createdAt>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.comp.web.egroupware.user</gmane:gmaneID>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33524</gmane:nMessages>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:06:11.600925</po:triplifiedIn>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-web-egroupware-userTranslate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-web-egroupware-userTranslate.ttl</po:ttlFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-web-egroupware-userMeta.ttl</po:discoveryTTLFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-comp-web-egroupware-user</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-web-egroupware-userMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23738057</gmane:nCharacters>
+  </rdf:Description>
+</rdf:RDF>

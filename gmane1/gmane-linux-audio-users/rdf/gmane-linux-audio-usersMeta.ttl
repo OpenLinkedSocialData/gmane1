@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-linux-audio-users> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-linux-audio-users"^^xsd:string ;
+    gmane:gmaneID "gmane.linux.audio.users"^^xsd:string ;
+    gmane:nCharacters 11079446 ;
+    gmane:nMessages 19995 ;
+    gmane:nParticipants 1181 ;
+    gmane:nResponses 16621 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-linux-audio-users"^^xsd:string ;
+    po:createdAt "2015-12-14T03:24:02.678768"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-linux-audio-usersMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-linux-audio-usersMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-linux-audio-usersTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T03:24:12.419906"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-linux-audio-usersTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.linux.audio.users"^^xsd:string .
+

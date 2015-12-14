@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-science-nmr-relax-scm">
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.science.nmr.relax.scm</gmane:gmaneID>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-science-nmr-relax-scmTranslate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-science-nmr-relax-scmTranslate.ttl</po:ttlFile>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19240</gmane:nMessages>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-science-nmr-relax-scm</po:availableAt>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:11:04.901723</po:createdAt>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:11:12.344597</po:triplifiedIn>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.science.nmr.relax.scm</rdfs:comment>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</gmane:nParticipants>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</gmane:nResponses>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-science-nmr-relax-scmMeta.owl</po:discorveryRDFFile>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12400202</gmane:nCharacters>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-science-nmr-relax-scmMeta.ttl</po:discoveryTTLFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-science-nmr-relax-scm</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

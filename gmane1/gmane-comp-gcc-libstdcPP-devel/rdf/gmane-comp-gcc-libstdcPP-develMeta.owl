@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-comp-gcc-libstdcPP-devel">
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:21:24.206962</po:createdAt>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-comp-gcc-libstdcPP-devel</po:availableAt>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1052</gmane:nParticipants>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.comp.gcc.libstdc++.devel</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-comp-gcc-libstdcPP-devel</rdfs:label>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-gcc-libstdcPP-develTranslate.ttl</po:ttlFile>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15487</gmane:nResponses>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-gcc-libstdcPP-develMeta.ttl</po:discoveryTTLFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:21:32.776761</po:triplifiedIn>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.comp.gcc.libstdc++.devel</gmane:gmaneID>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-gcc-libstdcPP-develMeta.owl</po:discorveryRDFFile>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19993</gmane:nMessages>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-comp-gcc-libstdcPP-develTranslate.owl</po:rdfFile>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10456343</gmane:nCharacters>
+  </rdf:Description>
+</rdf:RDF>

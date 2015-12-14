@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-culture-language-basque-eibartarrak> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-culture-language-basque-eibartarrak"^^xsd:string ;
+    gmane:gmaneID "gmane.culture.language.basque.eibartarrak"^^xsd:string ;
+    gmane:nCharacters 23133085 ;
+    gmane:nMessages 33278 ;
+    gmane:nParticipants 440 ;
+    gmane:nResponses 22760 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-culture-language-basque-eibartarrak"^^xsd:string ;
+    po:createdAt "2015-12-14T03:08:13.252368"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T03:08:28.499412"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.culture.language.basque.eibartarrak"^^xsd:string .
+

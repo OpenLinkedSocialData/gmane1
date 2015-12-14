@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-culture-language-basque-eibartarrak">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.culture.language.basque.eibartarrak</rdfs:comment>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:08:13.252368</po:createdAt>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-culture-language-basque-eibartarrak</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakTranslate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakTranslate.ttl</po:ttlFile>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22760</gmane:nResponses>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</gmane:nParticipants>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T03:08:28.499412</po:triplifiedIn>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23133085</gmane:nCharacters>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakMeta.ttl</po:discoveryTTLFile>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.culture.language.basque.eibartarrak</gmane:gmaneID>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33278</gmane:nMessages>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-culture-language-basque-eibartarrak</rdfs:label>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-culture-language-basque-eibartarrakMeta.owl</po:discorveryRDFFile>
+  </rdf:Description>
+</rdf:RDF>

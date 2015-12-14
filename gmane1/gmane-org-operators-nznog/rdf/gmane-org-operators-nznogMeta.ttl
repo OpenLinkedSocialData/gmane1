@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-org-operators-nznog> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-org-operators-nznog"^^xsd:string ;
+    gmane:gmaneID "gmane.org.operators.nznog"^^xsd:string ;
+    gmane:nCharacters 10959433 ;
+    gmane:nMessages 14389 ;
+    gmane:nParticipants 1217 ;
+    gmane:nResponses 9492 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane1/tree/master/gmane-org-operators-nznog"^^xsd:string ;
+    po:createdAt "2015-12-14T03:10:01.499171"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T03:10:07.530043"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane1/master/rdf/gmane-org-operators-nznogTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.org.operators.nznog"^^xsd:string .
+
